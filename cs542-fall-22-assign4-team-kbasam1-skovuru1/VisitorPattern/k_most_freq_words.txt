@@ -1,0 +1,10 @@
+the : 64
+and : 27
+of : 25
+to : 20
+a : 17
+in : 16
+was : 15
+machine : 11
+used : 8
+it : 8
